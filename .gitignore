@@ -1,0 +1,9 @@
+.vs/
+HOP/HOP/obj/
+HOP/HOP.UWP/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+HOP/HOP.UWP/obj/HOP.UWP.csproj.nuget.cache
+HOP/HOP.UWP/obj/HOP.UWP.csproj.nuget.g.props
+HOP/HOP.iOS/obj/HOP.iOS.csproj.nuget.cache
+HOP/HOP.Android/obj/Debug/90/lp/5/jl/AndroidManifest.xml
+HOP/HOP.Android/obj/Debug/90/lp/32/jl/res/values-vi/values-vi.xml
+HOP/HOP.Android/obj/
